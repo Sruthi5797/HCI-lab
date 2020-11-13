@@ -1,4 +1,4 @@
-# HCI-lab ( Title Goes here )
+# Scanpath Prediction and Evaluation on Graphic Designs
 
 ## Code folder
  - Contains the Implementation part
